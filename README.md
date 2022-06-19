@@ -1,4 +1,4 @@
-[![RahmatFH GitHub Banner](./assets/cover_profile_github.png)](https://rahmatfh.my.id)
+[![RahmatFH GitHub Banner](https://assets.rahmatfh.my.id/images/cover_profile_github.png)](https://rahmatfh.my.id)
 
 [![Visits Badge](https://badges.pufler.dev/visits/rahmatfh/rahmatfh.github.io)](https://rahmatfh.my.id)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=FD1D1D)](https://instagram.com/rahmat_falah)
